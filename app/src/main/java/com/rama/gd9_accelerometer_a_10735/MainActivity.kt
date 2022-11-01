@@ -1,4 +1,4 @@
-package com.rama.gd8_accelerometer_a_10735
+package com.rama.gd9_accelerometer_a_10735
 
 import android.graphics.Color
 import android.hardware.Sensor

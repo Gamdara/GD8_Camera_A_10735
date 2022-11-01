@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "gd8_accelerometer_a_10735"
+rootProject.name = "gd9_accelerometer_a_10735"
 include ':app'
