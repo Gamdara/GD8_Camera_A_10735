@@ -1,4 +1,4 @@
-package com.rama.gd8_camera_a_10735
+package com.rama.gd9_camera_a_10735
 
 import android.content.Context
 import android.hardware.Camera
