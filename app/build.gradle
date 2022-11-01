@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.rama.gd8_proximity_a_10735"
+        applicationId "com.rama.gd9_proximity_a_10735"
         minSdk 26
         targetSdk 32
         versionCode 1
